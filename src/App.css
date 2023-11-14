@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  gap: 30px;
+}
+
+#root > * {
+  border: 1px dashed #ccc;
+  padding: 20px;
+}
